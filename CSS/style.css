@@ -1,0 +1,34 @@
+.ImgPython1{
+    height: 300px;
+}
+.ImgPython2{
+    height: 200px;
+}
+span{
+    font-size: 25px !important;
+}
+.round{
+    border-radius: 50% !important;
+}
+.textDarkMode{
+    color: #fff !important;
+}
+.colorDark{
+    background: #414345 !important;
+}
+.palabra{
+    color: red;
+}
+.palabras{
+    color:green;
+}
+.icon{
+    font-family:"Font Awesome 5 Free";
+    list-style: none;
+}
+.carousel-inner{
+    height: 600px;
+}
+.colorV{
+    color: gray;
+}
